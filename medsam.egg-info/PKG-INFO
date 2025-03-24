@@ -1,0 +1,12 @@
+Metadata-Version: 2.1
+Name: medsam
+Version: 0.0.1
+Summary: UNKNOWN
+Home-page: UNKNOWN
+Author: Jun Ma
+License: UNKNOWN
+Description: UNKNOWN
+Platform: UNKNOWN
+Requires-Python: >=3.9
+Provides-Extra: all
+Provides-Extra: dev
